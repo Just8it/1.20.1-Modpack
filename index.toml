@@ -211,12 +211,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-k2ZPuTBm.pw.toml"
-hash = "92def82729141325e639fb238dbceff32822c3b52ffc164b7a955f4161638dda"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/modrinth-kB56GtWA.pw.toml"
 hash = "ad46bd43699bd8240188d57d2687a81f84535be7d34504a9cd5e6347abc2886e"
 hash-format = "sha256"

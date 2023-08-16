@@ -1,12 +1,11 @@
 name = "1 . 20 . 1 Modpack"
 author = "Just8It"
-version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "263410eeab32b41ffffc52bd16191de8d0026f4eb1bed61d2c90afb0bed55800"
+hash = "aeca590fbee3ed6bd9523d6ce488bddd13251ab36d62490914e754f59020c76e"
 
 [versions]
 forge = "47.1.44"
