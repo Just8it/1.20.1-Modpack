@@ -73,12 +73,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-4ZqxOvjD.pw.toml"
-hash = "d8b29221fc966a315ffc17d1eb5e1226a9dc8b0a6b0c20f01eadfac875a527ad"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/modrinth-6AQIaxuO.pw.toml"
 hash = "8a12b6e324f2666dc6aafc897faadf30a9632f7b1f779ff0b08aad8cfa96243a"
 hash-format = "sha256"
@@ -297,5 +291,11 @@ metafile = true
 [[files]]
 file = "mods/modrinth-wtW8g4TG.pw.toml"
 hash = "2b9dd59fb1de853ec23d8821fd6afd071aebc5f2f9795ff99fc0a97da4004c89"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "45e9f967f5f1fd3d33c8ba8bc79e886e05cb6c7b205cba9d89f8b1e24fcbf658"
 hash-format = "sha256"
 metafile = true
