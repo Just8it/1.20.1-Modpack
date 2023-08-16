@@ -1,0 +1,11 @@
+name = "suppsquared-1.20-1.1.8.jar"
+filename = "suppsquared-1.20-1.1.8.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "d0e56eabb4898bca72edf6295551eec43fe10b28"
+
+[update.curseforge]
+file-id = 4_705_876
+project-id = 838_411

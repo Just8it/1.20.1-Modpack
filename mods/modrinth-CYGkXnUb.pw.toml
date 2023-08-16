@@ -1,0 +1,11 @@
+name = "1.0.9 Mod"
+filename = "terralith-biome-saplings-1.0.9.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYGkXnUb/versions/IjENUQf6/terralith-biome-saplings-1.0.9.jar"
+hash-format = "sha512"
+hash = "ca2fac22b0c40b234b6082b8b0972430cd0ec39d976b5c54f9c4584c8c4f4f63a2d1f1ba624e20711e5fe074d435e565b36a0ec80c8df86decf5b11b24729219"
+
+[update.modrinth]
+mod-id = "CYGkXnUb"
+version = "IjENUQf6"

@@ -1,0 +1,11 @@
+name = "1.20-2.8.3"
+filename = "moonlight-1.20-2.8.3-forge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/FmgUqwxg/moonlight-1.20-2.8.3-forge.jar"
+hash-format = "sha512"
+hash = "5ec95b54e1966db285108eae8a9a398340709b013758cdb123bcbe0b286eee2d056ba3e0482272a271d5e9ab72b298c6ab6e7ad070f5cb146c07aa806d6cc3a3"
+
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "FmgUqwxg"

@@ -1,0 +1,261 @@
+hash-format = "sha512"
+
+[[files]]
+file = "mods/modrinth-SOw6jD6x.pw.toml"
+hash = "0521f72e9ffaeb5983bb26af27553d82e032afcbfed6ee1fb7c9a05492733294f75b2b426b0b85b52d2e74a1897b86afedf022a04b29eabcec6e61ed784a4b43"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-EsAfCjCV.pw.toml"
+hash = "b67ec9cbddf21734ce062496f4fda96e06eafd245f15c241840380fc4ccc5cfc86ea0f5b298817f811592c45d88dc9c934ac804a67e15dff8f8e9e01d3bb9625"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-lhGA9TYQ.pw.toml"
+hash = "5f2a8fe86140e425bdb9f82197c3de8fdf58019663c17381ee15a571587c44671b8598c4330575d2b867afd2adc057b917935de19876c49f357d8e8f20b49da8"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-b1ZV3DIJ.pw.toml"
+hash = "d7ce18c2cfce889eb529ff0d9a46051dce0715665c667ff515d277a5dd6ecbce47d37c15f5111511272c3cfcc423a8d2c42412056d15007390e15053d2e4b53f"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-272515.pw.toml"
+hash = "2f9298d24dcb0b7f707ab22239407ba1d9bb7866119ef42127e172b15b7d1c76dfebfbf4f4169fb8cc112972658f5fd9e65fe7aa45c2b13630cdc8d5d6ad0928"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-8shC1gFX.pw.toml"
+hash = "14eb78c509a080139a0f18cfcd786b4a401c4446b8e0a1a60f24c3ff2f32cfb210e9cf81ac5e435ebaadc63caf07f5062eff424078b1c92db341ab71d3785e71"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-gu7yAYhd.pw.toml"
+hash = "2fd9e0879ef49ad6ff5beabe55c460f96408a6649e9244c5ce2d1b9c6ef56680ca7aa1dd8c4a7197b3525f7bdc8108ede3c4cef06564d009bb120ccc30afab9b"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-456956.pw.toml"
+hash = "3df87ed337976a0a9caddb9bd5ddd88ad734008b7b94ef37374be8d7a5e1a94f3c70a3b7be2c4b94038ce733ea12e6cee323f6123a84d3c86d5d0b14bc2ad8fe"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-9s6osm5g.pw.toml"
+hash = "3324746ff23810b79ca71b3f370c49416924a43100f7b7ce4748fdbc523cd2635022aa9c8bc3ccba9b9a7dbc4ab7b653d6368d75b372d86e7f9826e32e83b466"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-SaCpeal4.pw.toml"
+hash = "c25d8a214904826613d9e57a3c2ba1d3a78e696c31dead2ee390317e1e68d914ca7dbc1906b68dcbdefac12fbda4ce787c92f61c8c01976d296ed61898bb672b"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-LNytGWDc.pw.toml"
+hash = "93df9be97fd6398608ea86e954b65e16743b2fcca63ad1bfc0c64a1f67ecc6d6776c95d2754d5f8e176aec5b762c4aa93eeef2ea52eb3094946d13ae630a0730"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-kU1G12Nn.pw.toml"
+hash = "c934e76c96dadee3b77b83ba966be1a78d9067d55f25ac5e2ff3660c38059e4557bd5d5f21a0772f0c3506a07acbd961620fa4c784ee39787bd06200822b53f2"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-JWGBpFUP.pw.toml"
+hash = "cd1a5f17b538a52816ea05750c018c61b8a11f248f6675bf1224b15a4ef7b3ad95e67a7c6d1806607e8c04d8b029fba4f253f8c9d179f6b3ffdcd8b1dd1aea6d"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-466792.pw.toml"
+hash = "8dcc368cb6635f162fe903dd27c5220dc7084cf8fd7bb442f622f93fe064054a30fa48fa549dbe8c1c6fed7f1feafae6ce16a8fe8a0c5facd0f0f208d0f85c6d"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-wtW8g4TG.pw.toml"
+hash = "78a586f69e1273ed4966568fdcd4fdc7309a3ad90738eb9abcf2df33d059ed78e05a3a4d8c2db7878232c38e26546d6a8c7d02d06fa5c719d4c5de2c73689a2c"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-IAnP4np7.pw.toml"
+hash = "54b7cbdced17651f5777b1ea45f5b817d383f5fbef1edee7d1f45da77e195c3e677bc147ee3ecdc8fd165050a8a0a3dcac721de859023e11f4aca83bcaabcbbf"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-smUP7V3r.pw.toml"
+hash = "27cb006209811e6184f8820feb843ddffc552c613299726c9a9b0c5dee31d36c6b276a5a0e54ecc58ecbb2acb9f38cb5ad9ea1a35438533c39b87d1732a6e870"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-k2ZPuTBm.pw.toml"
+hash = "2b065ac07288b7cddb621a4d4f3476a529594a1b44ddf6ee60bcbbb1bb68e4843222df9d731d786aa23df05812cc33a7c05a039e457d5658e18e3cf4119cf7cb"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-6lvRWqbA.pw.toml"
+hash = "7f17fbce748dd7d0161a69819d60afd26dc6eaeeac878ff302837d81b019daab72b728fc556531c804bb69980681e602d243a3bf5a9fd33a72d27e0f620b0c0b"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-HSfsxuTo.pw.toml"
+hash = "efa2a182ecb34781f66e45188275a5dd632cbf1cdf426aba0e0146ac2e2fd3e2bd2a7750c362eca5952b990e0bd301549f617cd700062662f59c5a0c48dc45ad"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-398521.pw.toml"
+hash = "9b6b5d1a377ab48eb14f3c0a93f8a23427a4f1b2401ad3b7a9366573dfcabf66af81d16f664c57aec5caf095a0d2c555a7531c93ac98a0e52bdaa7f340ebf403"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-kCpssoSb.pw.toml"
+hash = "f093e4d37e9ad0dd07121f90f1a3707a915a05567320c1c318ca3f30da3328d62ccc590fbd61b8464cdff41cccd58041fb368e9a21f61d113289d6734f33049e"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-p19vrgc2.pw.toml"
+hash = "415a9cbea434b45abdcca39036818b77c2985e6d031e98adf6acbf570c41418ddbb14d3419b14df63deb649d92b934d9a3aed82f0c0949462bceb1ae34b82839"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-O7RBXm3n.pw.toml"
+hash = "a482b84ac466431763f07ae26e5c3d11a3d3b953d824af8852cb278ccd0256c57cf57877c21f58837fec724726442e657c88464a249868f24bb40f4e18739a39"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-659897.pw.toml"
+hash = "ff7957c8a5751bc58016d7d9ecf848436b388b5037df50779f6a8441575710a6391109c4f41c6440a4726de335e563bc6d9e3da91ac5ab346aca49888c6e0145"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-lfHFW1mp.pw.toml"
+hash = "fbab596f498d745537a9ba7ddd25fb19a269da90d264ccd72c2011e0166ae2bd0edcb63ceb6406bc16caa6c0d0ccef104d1f94c1ffa9b8ea605e27e21f7f0e1c"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-u6dRKJwZ.pw.toml"
+hash = "55f5df9263893d245abe541c8ce63cfb52d89cd2a3d68f289f3a56d1c938218256b516b460f1a0cb3cee89361b15b763143ab508ed3e963b3702103fe6015752"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-kB56GtWA.pw.toml"
+hash = "fb10664fd87b086675fd5912fb3e8f5fa156dfddae3dc26185e10b8f6e930db02ecd7000a28f9f5d7ec8806523963d99c0cca4c3be9419447f7af387a3ccfb28"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-ordsPcFz.pw.toml"
+hash = "e53a6f5901f7e861c94ac987dad64fceef35ede6b37453116d6c05b440cc72eb3a4a6ba54f6ef6c31ea3628413c7ba6341f8643a29d220a5f407b9e9cbf9b429"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-twkfQtEc.pw.toml"
+hash = "d0e2c5e800d0d93d277f8001e8b5e278d5ee9dfb7791ea2effa69789565aac227915a32bf0cff265ea334646732a79b1e12bc0b231ab9980b90bad34716563a4"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-qQyHxfxd.pw.toml"
+hash = "050a76960c2df23bab385e7a735df97744939d2013f7584404376db1092fe7b04715a5a2ec184b584102a7715ea2af7c25563391de35a3c90e41305d57c36a5c"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-GchcoXML.pw.toml"
+hash = "20d23dc878c51c9c8077ab5fc333a6ab81bc926c85150faf140282c9d64107bf56c01d3ab12fa2030e4467a0fa08284bdcfcc9dd7261175318f6f7535f4ad7a9"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-QDNS5oAT.pw.toml"
+hash = "ccd085a014363b901a3bf3bf44f599e9525a9bd072d060440c6a4b6c6c0a6a2621ab1dd5b526b67eeb2ad8f9e9fd27a21f2c4effeb1b70a30e3f189ddeee25db"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-G1hIVOrD.pw.toml"
+hash = "ef95d1b112fb105cea81f8109496dcb05d57c5eb109985b769beefbb9cc74c5ca20cc99c6d27c0ff5c5c759e34fc4468e9f5bfb3b62b084e7e4444e5e40d176c"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-4ZqxOvjD.pw.toml"
+hash = "863358026c613e36f963ec2b60bd3b65082437bbe9f0cfd1f4adc698ad19ba8246a89d93d11f571de4f5038694c31e74f9ace0a58430da8ba6a7ae95cecc256b"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-oY2B1pjg.pw.toml"
+hash = "316f328017be8df8f85d1d7bd69aa067b9b4d6199124feb01c4ce1a8f05a8137f9f149a8568a6823901d577ccb0d975bebfe23d1aba16a1642c34755090f3402"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-9eGKb6K1.pw.toml"
+hash = "ea00da66f743af262ac28f0af86cf9c2b062594c9f89be88d77de6b18f513e03af000dbc70ce54de6bb65ce70dad76046399bf4ad585e35a7a92777f36ef2f66"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-223852.pw.toml"
+hash = "951267450316bc97d8de5fc42594e61e0232e1765d1cd445871a5972f6a36e99505e074615a35931a2faa6a59c3527bf3aff30baf41d0215f7cb6045f83c016d"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-LN9BxssP.pw.toml"
+hash = "64bfd769efa23f75e58e4c024dde96e79fc3240bdc457386e308d6aa5688f4c26a6b917840a5b653ac6c861ecf1d80cb10abdf179ba0ebe6abcff3d8e6308874"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-rOUBggPv.pw.toml"
+hash = "ad66ba6f9846bc854f9d1328311281c856fff82c5e487763906a6d67c01f8b4a61d4262b1371f32d070b5680748bbe3debfc22deaa08d44be12c62b42ec51951"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-412082.pw.toml"
+hash = "0ed5c347a90467a26c9fd92cf12ac5ef4c522fb82e11e405c9cd63b79fded336ed544d13523d724f520687b564c8869c7b1cb60887e9df36a5a9c51bef644c0f"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-838411.pw.toml"
+hash = "9498b1ee325ac4ed10c67708cd1cf05ef154bd487929846590800192be13dee3fe301b70c76c43030943b3a643df49bd26faf879746971a240318496bfa69f94"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-873711.pw.toml"
+hash = "586b26fbdbd448b877249d231a5699ddb5e0e43f16d0809cf7827c005dee13e54d9d3a4fe239a7166e15bbb02c1464e9d980e01b05eab6f1aa242b8bdaa3104c"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-513688.pw.toml"
+hash = "3e337e50a810b586d182153bd4cbd256741d681ec67da7712cdf2c9e7a30b5540ae5cc2134210ea44dd392977ee2b98458f62d7b27eb425f1639f82446c4d819"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-CYGkXnUb.pw.toml"
+hash = "6d97ce43d28195527af3c8abe39fe47ed246d710f14b0aa58d03d99ff16886b8369f9642c8a2e132fbcc0dd6d43468c17df274022cdb87d6bab3e8d1fba27ca6"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-nm57myYP.pw.toml"
+hash = "07a4792b3bd65cfd45b2b31792e10abbddbd650eeafa3ef8e6ed825ff917195394d781ce7b6b18bbb1642e533546f2b8a156f1279fd6d9870c1c8679ef9b2037"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-Tl8ESrhX.pw.toml"
+hash = "e9a437ec86a89a727e24ccc12fec2d66d524544601be6e02fcae7a392d7d8b52c18613b26a71430a7b492e469df6993eb50861f1b30dbfe82c06893b573b94c4"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-394535.pw.toml"
+hash = "33943792f13b5802f1fdc5d24de27f0e8ed77afbc847e78c79babb9a5dec78dc46ece2c51e1705f2aa6f673b15eddfdff26ef1e8326b65069562fc8e26492d2f"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-6AQIaxuO.pw.toml"
+hash = "8a720f37a8e41deb96f5f7ea089ef03c3c1a3823ade4219e53fbc08895256cea4f8e406b59a5aafaffbb9e08e8d999630febb33a65bf522690f9e518ecc6ef5b"
+metafile = true
+
+[[files]]
+file = "mods/curseforge-225608.pw.toml"
+hash = "d96df83c93f631a91627ae3a5fcd187b2684b0813deebc015d766e14da63449ee0371be3b53475e4b81851e793033a15c3d778b019a5c05763c90c27c8d4b1b0"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-ftdbN0KK.pw.toml"
+hash = "904c5a219c087692b67db98f06bbd426139d6730713b0a74aa735c39842ca05d22b7bc2dadc7698eb4056267b0e206f009b35722295c44a448d578c14eb248d9"
+metafile = true
+
+[[files]]
+file = "mods/modrinth-onSQdWhM.pw.toml"
+hash = "9c561dcb5cfe45c4822b4b44ade39ea55065dc4f4a0b8757c449ac090c39919b7bb5feb3bf951cd4170530e35bf85e57cab0abb0d130f212d73537a744394371"
+metafile = true

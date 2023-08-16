@@ -1,0 +1,11 @@
+name = "Simple Voice Chat 1.20.1-2.4.20"
+filename = "voicechat-forge-1.20.1-2.4.20.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/eRaq1KMf/voicechat-forge-1.20.1-2.4.20.jar"
+hash-format = "sha512"
+hash = "b548d91d6c1394e5afd16087a3911500be8a7759689760050913a3360d4d2c390cd57fe9a415b00bace2ff12dcd1e14c41ab2cfc446bd2e3330eb077c55dcd18"
+
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "eRaq1KMf"

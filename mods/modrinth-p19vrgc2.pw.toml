@@ -1,0 +1,11 @@
+name = "Fusion 1.0.5"
+filename = "fusion-1.0.5-forge-mc1.20.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/hdfkyD8Y/fusion-1.0.5-forge-mc1.20.jar"
+hash-format = "sha512"
+hash = "feb8cb7b6ae162e9c4b52b0182283b2b2dae4573a10981f80df0c6ac591c4e09732f21016ac40ad4575acc470e57ad9a962f33222f5655ad7cb18985f09c5f87"
+
+[update.modrinth]
+mod-id = "p19vrgc2"
+version = "hdfkyD8Y"

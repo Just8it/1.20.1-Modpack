@@ -1,0 +1,11 @@
+name = "1.107.0"
+filename = "cc-tweaked-1.20.1-forge-1.107.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/BexXatKb/cc-tweaked-1.20.1-forge-1.107.0.jar"
+hash-format = "sha512"
+hash = "4847532f9e397f2d276099bf76946dea5f51286b601a2e888d763b7e4601285ffeeca724713b7df66a836b28840a0cbd92a597781de53f3b0e740648a525034e"
+
+[update.modrinth]
+mod-id = "gu7yAYhd"
+version = "BexXatKb"

@@ -1,0 +1,11 @@
+name = "1.20.1 v2.0.4"
+filename = "createendertransmission-2.0.4-1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/wtW8g4TG/versions/mRVliMV3/createendertransmission-2.0.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "caa604d09a6a67936839e4f6a937229039d761d70b7bd7fd6f29fb8aa5d32520a7e39c801ffdf45bd42a6fd031e0bb62dd85183a734fd477eb40530932411457"
+
+[update.modrinth]
+mod-id = "wtW8g4TG"
+version = "mRVliMV3"

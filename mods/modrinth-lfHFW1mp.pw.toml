@@ -1,0 +1,11 @@
+name = "journeymap-1.20.1-5.9.12-forge"
+filename = "journeymap-1.20.1-5.9.12-forge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/GQa77Rhe/journeymap-1.20.1-5.9.12-forge.jar"
+hash-format = "sha512"
+hash = "4986941725dd6caf68c5cf4cfb10d060afd6016de3d4915b88ac75daa0b385c752b97609538413b0215fa12ebfcf2f88daa300aea5d2943028cacf577657f03c"
+
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "GQa77Rhe"

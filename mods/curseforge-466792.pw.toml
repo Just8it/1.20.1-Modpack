@@ -1,0 +1,11 @@
+name = "Create S&A 1.20.1 V2.0.4a"
+filename = "create-stuff-additions1.20.1_v2.0.4a.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96"
+
+[update.curseforge]
+file-id = 4_703_287
+project-id = 466_792

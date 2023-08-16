@@ -1,0 +1,11 @@
+name = "createaddition-forge-1.20.1-1.0.0b"
+filename = "createaddition-1.20.1-1.0.0b.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/WzzNESVI/createaddition-1.20.1-1.0.0b.jar"
+hash-format = "sha512"
+hash = "65dc240d7006fa862dbe1d5205caf042700440de6fcba3ef0ba1adb2e6ecee70c62410d904a3885fb6ebcbf36c3c01cb04ab7cfb8ffaaaa5c7c6c85cded4bf3d"
+
+[update.modrinth]
+mod-id = "kU1G12Nn"
+version = "WzzNESVI"

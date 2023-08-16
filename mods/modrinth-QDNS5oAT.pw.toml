@@ -1,0 +1,11 @@
+name = "Repurposed Structures"
+filename = "repurposed_structures-7.1.0+1.20.1-forge.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/5jMlMYD6/repurposed_structures-7.1.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "38b0e76086fab6be0bab51c52e9ea15de02f7493f5e64fa90aa7de2286bf53079fc363d1b5b64fa77fadd0add00901e9958cb1b8cfc21f713beeb12ee9af233f"
+
+[update.modrinth]
+mod-id = "QDNS5oAT"
+version = "5jMlMYD6"

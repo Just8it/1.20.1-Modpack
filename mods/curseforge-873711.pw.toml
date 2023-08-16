@@ -1,0 +1,11 @@
+name = "Tax' Structure Architect"
+filename = "TaxStructureArchitect+M.1.20.1+ForM.1.1.0.jar"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "9300dde11734f7fad5b7ef9fca2d774f51c5d93f"
+
+[update.curseforge]
+file-id = 4_651_264
+project-id = 873_711

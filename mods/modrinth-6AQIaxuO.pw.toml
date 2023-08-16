@@ -1,0 +1,11 @@
+name = "8.3.1"
+filename = "wthit-forge-8.3.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/SjppvnCY/wthit-forge-8.3.1.jar"
+hash-format = "sha512"
+hash = "2d17617f89f25a78cddd5e6ef27db189cd25ae08c467e4ddd537e5694f051621f74c2ff179b474f921eb28aeac6ed9126c52e1b30d988d0a30c8309f000b7ace"
+
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "SjppvnCY"

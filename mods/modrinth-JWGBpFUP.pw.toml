@@ -1,0 +1,11 @@
+name = "CEI 1.2.6.b for Create 1.20.1-0.5.1.d"
+filename = "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.b.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/phelvkHE/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.b.jar"
+hash-format = "sha512"
+hash = "76ed1bf81282a6c207427192135b30d908283effa5ab2b7b87d6edd8dc9bb89b080e7aa71c732e9b0cc92b0ab74d36df09cddc23dc997723844fa820f51f863f"
+
+[update.modrinth]
+mod-id = "JWGBpFUP"
+version = "phelvkHE"

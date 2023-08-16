@@ -1,0 +1,11 @@
+name = "1.0.1-mc1.20.1"
+filename = "TextruesRubidiumOptions-1.0.1+mc1.20.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nm57myYP/versions/BxGSYuDQ/TextruesRubidiumOptions-1.0.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "717560e4b14d40a8fe1077f121c580118d06d3b89f82b302ea2a2f11cd036627e96ca184aa33dc3fbc7cadbf487fca8dd92ecabb120f1cc76bba8ddc7d08513b"
+
+[update.modrinth]
+mod-id = "nm57myYP"
+version = "BxGSYuDQ"
