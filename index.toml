@@ -1,16 +1,6 @@
 hash-format = "sha512"
 
 [[files]]
-file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-hash-format = "sha256"
-
-[[files]]
-file = "gitignore"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-hash-format = "sha256"
-
-[[files]]
 file = "mods/curseforge-223852.pw.toml"
 hash = "7d849b109ab9c3fa4ffd9e76bd1c791077726bddd10763b59d791443c93bbed1"
 hash-format = "sha256"
@@ -321,23 +311,3 @@ file = "mods/modrinth-wtW8g4TG.pw.toml"
 hash = "2b9dd59fb1de853ec23d8821fd6afd071aebc5f2f9795ff99fc0a97da4004c89"
 hash-format = "sha256"
 metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml.old"
-hash = "45e9f967f5f1fd3d33c8ba8bc79e886e05cb6c7b205cba9d89f8b1e24fcbf658"
-hash-format = "sha256"
-
-[[files]]
-file = "packwizignore"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
-hash-format = "sha256"
-
-[[files]]
-file = "temp/index(1).toml"
-hash = "4584d2c56d2349c6765c82012a9c7311c15bd10b1868517867fd6d520232bf2f"
-hash-format = "sha256"
-
-[[files]]
-file = "temp/list.txt"
-hash = "807858ec775a510b4b43fd1e1239c4597a0844b12f315e173a6af4fd17ff45a5"
-hash-format = "sha256"
