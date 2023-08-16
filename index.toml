@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/modrinth-4ZqxOvjD.pw.toml"
-hash = "45e9f967f5f1fd3d33c8ba8bc79e886e05cb6c7b205cba9d89f8b1e24fcbf658"
+hash = "d8b29221fc966a315ffc17d1eb5e1226a9dc8b0a6b0c20f01eadfac875a527ad"
 hash-format = "sha256"
 metafile = true
 
