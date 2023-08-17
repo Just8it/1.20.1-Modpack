@@ -1,6 +1,12 @@
 hash-format = "sha512"
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "1e30996f4ae5cf472f91a8ba106732322739e707fe3ac8841e77629d58817989"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
 hash-format = "sha256"
@@ -79,6 +85,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "f7f68eabc40c0b5cc8a3876f9e45ef399cb9dd54b502f9c96577d7a7d23a76a6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
 hash-format = "sha256"
@@ -99,6 +111,12 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "4b44345054d1a5b085291679b1e6a18c2cbf402b6defef2ff0500db92c25cfed"
 hash-format = "sha256"
 metafile = true
 
@@ -313,6 +331,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "7cb8fd3d40eddee4b2d5c44ccb089739e8a6ef9becef5f498a05a7ac8bba76f3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
 hash-format = "sha256"
@@ -351,6 +375,12 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c1ef4ff0e9d3b5ec41d3fbce5a3c60bde2fe5dac9a32a12d57530cdf9f5547ff"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "7d6445ba5918b093c89c7e030a65b4e04876bca2483f4525262e8f2808974263"
 hash-format = "sha256"
 metafile = true
 
