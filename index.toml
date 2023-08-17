@@ -7,6 +7,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/curseforge-223852.pw.toml"
 hash = "7d849b109ab9c3fa4ffd9e76bd1c791077726bddd10763b59d791443c93bbed1"
 hash-format = "sha256"
@@ -309,6 +315,12 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 hash-format = "sha256"
 metafile = true
 
