@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/curseforge-513688.pw.toml"
-hash = "2095aedd8b8e307202b8bc04ce34076e3068df849c840587e90f00cd8583d2f2"
+hash = "41a5c53476f244cd56a771e98aa51c26eea163ecdd2d9907dfa4adf40330fcf5"
 hash-format = "sha256"
 metafile = true
 
@@ -93,6 +93,12 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 hash-format = "sha256"
 metafile = true
 
@@ -303,6 +309,12 @@ metafile = true
 [[files]]
 file = "mods/modrinth-wtW8g4TG.pw.toml"
 hash = "2b9dd59fb1de853ec23d8821fd6afd071aebc5f2f9795ff99fc0a97da4004c89"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
 hash-format = "sha256"
 metafile = true
 
