@@ -55,12 +55,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/curseforge-659897.pw.toml"
-hash = "95cd55c1aeae9b66bfecaab171ab1182300b513a1313d6efe557e6124c0c3d9c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/curseforge-838411.pw.toml"
 hash = "b0bd72455993f658477daa69c050cf98537803aeea9e24180a17e86f0c13db5d"
 hash-format = "sha256"
@@ -117,12 +111,6 @@ metafile = true
 [[files]]
 file = "mods/modrinth-G1hIVOrD.pw.toml"
 hash = "2a46daab4b4ab9a229603596d6bf4c5e6c30935730841a0afa20fb042c370a5b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/modrinth-GchcoXML.pw.toml"
-hash = "43c61e5c69fc1db33b89fdb27933e3345264f496154bd321b798477fe3ed0379"
 hash-format = "sha256"
 metafile = true
 
@@ -235,12 +223,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/modrinth-nm57myYP.pw.toml"
-hash = "0bad856f7a0372688c03304ddf81df36cfce05d8e857eeb0e12088d8905331e8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/modrinth-onSQdWhM.pw.toml"
 hash = "89d5821346befa540d6bdb9068d265e11b1d55fb1258a2ffbe805ecbb3bb065b"
 hash-format = "sha256"
@@ -291,12 +273,6 @@ metafile = true
 [[files]]
 file = "mods/modrinth-wtW8g4TG.pw.toml"
 hash = "2b9dd59fb1de853ec23d8821fd6afd071aebc5f2f9795ff99fc0a97da4004c89"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "e72d25a5c58f5083f26ec059b1e3231059159e18fa42ef473eb2f7e902e49b11"
 hash-format = "sha256"
 metafile = true
 
