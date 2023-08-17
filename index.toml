@@ -1,6 +1,12 @@
 hash-format = "sha512"
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/curseforge-223852.pw.toml"
 hash = "7d849b109ab9c3fa4ffd9e76bd1c791077726bddd10763b59d791443c93bbed1"
 hash-format = "sha256"
@@ -63,6 +69,24 @@ metafile = true
 [[files]]
 file = "mods/curseforge-873711.pw.toml"
 hash = "2d579ca5ecf59f4ecb0e6d43c021dd489245d7adbf9150d392478fb2fda315a3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
 hash-format = "sha256"
 metafile = true
 
@@ -297,6 +321,12 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "66f07d4b96ef556a78998966fa125ba4e1ce0d461d340e712983f584aeb0d205"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c1ef4ff0e9d3b5ec41d3fbce5a3c60bde2fe5dac9a32a12d57530cdf9f5547ff"
 hash-format = "sha256"
 metafile = true
 
