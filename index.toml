@@ -299,3 +299,15 @@ file = "mods/rubidium.pw.toml"
 hash = "e72d25a5c58f5083f26ec059b1e3231059159e18fa42ef473eb2f7e902e49b11"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "ff29bb065fb733530afb8a77c1612d92e3e6ff1284b08353fe81c0f62b6adfe3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "66f07d4b96ef556a78998966fa125ba4e1ce0d461d340e712983f584aeb0d205"
+hash-format = "sha256"
+metafile = true
