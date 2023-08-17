@@ -299,3 +299,9 @@ file = "mods/silent-lib.pw.toml"
 hash = "66f07d4b96ef556a78998966fa125ba4e1ce0d461d340e712983f584aeb0d205"
 hash-format = "sha256"
 metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "b78f8c11572afce1672bc8ae4c001f47536764613d2f69e2adbdcee80aace00c"
+hash-format = "sha256"
+metafile = true

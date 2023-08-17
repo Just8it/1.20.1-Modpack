@@ -1,0 +1,13 @@
+name = "TexTrue's Rubidium Options"
+filename = "TextruesRubidiumOptions-1.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dfba7e6cd2e91fea068ea0d0e5bc4c7f68ede58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4696109
+project-id = 663125
