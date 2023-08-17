@@ -277,6 +277,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "ff29bb065fb733530afb8a77c1612d92e3e6ff1284b08353fe81c0f62b6adfe3"
 hash-format = "sha256"
