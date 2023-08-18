@@ -19,6 +19,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "45f5a397d0250599f736f1e4ac1829b1ce3ba48ccce83adeae5cd387125763cc"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/curseforge-223852.pw.toml"
 hash = "7d849b109ab9c3fa4ffd9e76bd1c791077726bddd10763b59d791443c93bbed1"
 hash-format = "sha256"
