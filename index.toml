@@ -343,6 +343,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "032a1eb90f5ea1cde0e3b8e5c0a0d91108dd23ca143eb0f4473768ee38765b9c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 hash-format = "sha256"
@@ -357,6 +363,18 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "66f07d4b96ef556a78998966fa125ba4e1ce0d461d340e712983f584aeb0d205"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "16bde70c50387b5a68eee1ea4ab97b5c8ff266ef033e0708bc4c9c36d860bc9d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "d89ee1b097e225ee5bb1b92c57d7c6a2a52abced1dae28aae8bddb86261baf86"
 hash-format = "sha256"
 metafile = true
 
