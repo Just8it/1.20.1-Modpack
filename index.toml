@@ -25,6 +25,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "19f9f3d50d6cb94180cb9cc384a92be0368bd0edc155d41f3960466db5d4392d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/curseforge-223852.pw.toml"
 hash = "7d849b109ab9c3fa4ffd9e76bd1c791077726bddd10763b59d791443c93bbed1"
 hash-format = "sha256"
